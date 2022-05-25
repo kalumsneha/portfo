@@ -4,7 +4,7 @@ idna==2.8
 oauthlib==3.1.0
 Pillow==6.2.1
 pyjokes==0.6.0
-PyJWT==1.7.1
+PyJWT==2.4.0
 PyPDF2==1.26.0
 PySocks==1.7.1
 pytz==2019.3
